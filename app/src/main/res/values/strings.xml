@@ -11,5 +11,8 @@
     <string name="explore">Explore</string>
     <string name="todo">TODO</string>
     <string name="Perching_Birds" />
+    <string name="ducks">Ducks</string>
+    <string name="perching_birds">Perching_Birds</string>
+    <string name="sea_birds">Sea Birds</string>
 
 </resources>
